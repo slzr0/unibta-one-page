@@ -1335,8 +1335,8 @@ footer .goto-top {
     padding-bottom: 15px; } }
 @media only screen and (max-width: 736px) {
   h1 {
-    font-size: 36px;
-    line-height: 48px;
+    font-size: 30px;
+    line-height: 34px;
     margin-bottom: 50px; }
 
   header, header.fixed {
